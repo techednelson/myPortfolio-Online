@@ -1,0 +1,113 @@
+body {
+    position: relative;
+    margin: 0;
+    padding-top: 3.25rem;
+    background-color: #313E40;
+    color: #F2F2F2;
+}
+hr {
+    background-color: #F2F2F2;
+}
+/* NAVBAR
+-------------------------------------------------- */
+.navbar {
+    background-color: #313E40;
+    border-bottom: 0.5px solid #F2F2F2;
+}
+/* END NAVBAR
+-------------------------------------------------- */
+
+
+/* HEADER
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+    margin-bottom: 4rem;
+    color: white;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+    padding-top: 2rem;
+    height: 32rem;
+    background-color: #777;
+}
+.carousel-item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 32rem;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .carousel-item {
+        padding-top: 10rem;
+        height: 42rem;
+    } 
+    .carousel-item > img {
+        height: 42rem;
+    }
+}
+@media (min-width: 992px) {
+    .carousel-item {
+        padding-top: 10rem;
+        height: 52rem;
+    } 
+    .carousel-item > img {
+        height: 52rem;
+    } 
+}
+/* END HEADER 
+-------------------------------------------------- */
+
+
+/* ABOUT ME 
+-------------------------------------------------- */
+#aboutMe {
+    background-color: #313E40;
+}
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+#speed img {
+    width: 90%;
+    }  
+
+@media (min-width: 768px) {
+  #speed img {
+    width: 80%;
+    }  
+}
+
+/* END ABOUT ME
+-------------------------------------------------- */
+
+
+/* CONTACT
+-------------------------------------------------- */
+.card {
+    background-color: #152026;
+}
+.card-text {
+    color: #F2F2F2;
+}
+.card-title {
+    color: #F2F2F2;
+}
+/* END CONTACT
+-------------------------------------------------- */
+
