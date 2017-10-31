@@ -15,6 +15,3 @@ User Story: I can see thumbnail images of different projects the portfolio creat
 User Story: I navigate to different sections of the webpage by clicking buttons in the navigation.
 
 Final Project URL:  https://webtechnelson.com/
-# myPortfolio-Online
-FreeCodeCamp - Build a Personal Portfolio Webpage
-https://webtechnelson.com/
