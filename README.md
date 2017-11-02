@@ -1,4 +1,4 @@
-# FreeCodeCamp | Basic Front End Development Projects
+# FreeCodeCamp-Challenge | Basic Front End Development Project
 
 Build a Personal Portfolio Webpage 
 
@@ -15,3 +15,11 @@ User Story: I can see thumbnail images of different projects the portfolio creat
 User Story: I navigate to different sections of the webpage by clicking buttons in the navigation.
 
 Final Project URL:  https://webtechnelson.com/
+
+# Contribution
+
+Pull Requests & Issues to report, fix  or enhance this project are welcome. Please follow [these steps](CONTRIBUTING.md) to contribute.
+
+# License
+
+[Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)
